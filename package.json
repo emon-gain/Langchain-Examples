@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@aws-sdk/client-bedrock-runtime": "^3.588.0",
     "@aws-sdk/client-s3": "^3.556.0",
     "@langchain/community": "^0.0.48",
     "@langchain/core": "^0.1.57",

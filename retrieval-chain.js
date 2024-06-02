@@ -108,7 +108,6 @@ const config = {
   distanceStrategy: "cosine"
 };
 const vectorStore = await PGVectorStore.initialize(
-
   embeddings,
   config
 );
